@@ -1,0 +1,3 @@
+1. Function is bunch of lines of codes that does a certain task only. It is something that makes life easier because it makes it possible to reuse the same line of codes over without the need to rewrite stuff all over.
+It is important for all languages to have this so less redundency occurs.
+2. I think they were made into a seperate .c file because the job they do is something general. It is something that can be used for almost any program so having it seperated will make using it later more efficient.

@@ -1,0 +1,7 @@
+1. It is decalred to hold ten elements because we ask the user to enter the number of days between 3 and 10.
+If the user decides to enter 10, the array already has enough space to store 10 elements.
+2. The advantage is that you can store paired information such as item number and its price or
+students and thier grades. One disadvantage is that if you want to remove a value from one, you need to fix the other on as well
+which can be difficult or messy.
+3. The home portion for this workshop was just right. The most difficult part was adjusting the average
+temperature to the number of days they asked for.

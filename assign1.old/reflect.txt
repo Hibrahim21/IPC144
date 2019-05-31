@@ -1,0 +1,5 @@
+1. I believe it is to make it easier to access. For example in our main we just needed to make one struct in where it would 
+allow us easy access to all of the structs inside with each of their members.
+2. Milestone 2 was the most difficult for me. Mainly the parts where we had to take strings from the user, until we cleared
+the buffer, it sometimes skips to the next line without waiting for the user input.
+3. I completed it in the same class we did milestone 3.

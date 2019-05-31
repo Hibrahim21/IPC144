@@ -1,0 +1,7 @@
+I believe the most important thing that I learned in this workshop is how to do 
+calculations and casting. Casting is changing a varible when needed for example
+when we want to use the modulus operator on a value that is a double or float
+we cast into an int by doing: (int)varible to be cast;
+Even though it could have been done without using the modulus operator, I believe
+it was required to be used to teach us the basic concepts of all the numerical operations. 
+ 

@@ -1,0 +1,4 @@
+1. Using an array of structs means that there is no need in creating parallel array because in the purpose of 
+an array of struct is also to carry related data in a much more convenient way. This enables the programmer to save the trouble of creating 
+multiple parallel arrays that are needed to carry related data.
+2. I believe the main reason is to keep your program clean and all the dirty work can be accessed when it is called

@@ -1,0 +1,4 @@
+3. Find Contact Index helped with going through our array of contacts and it helped when we used it for updating and deleting 
+our contact array. It makes it neater and make it easier while not getting as confused.
+4. Assignment 2 felt like a subsitute for the workshops we would have done for functions and pointers. I was able to practice using 
+functions and also passing pointers with value and address.

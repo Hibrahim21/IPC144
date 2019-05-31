@@ -1,0 +1,2 @@
+In this workshop I learned how to upload my code into SSH. Also the importance of matching the output to submit it in our code. 
+I also learned how to make a directory in SSH. 

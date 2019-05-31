@@ -1,0 +1,5 @@
+1. There are three iteration constructs which are, "for", "while", and "Do while".
+2. A normal "while" will only be executed when the given condition is meet, while a "do while" will always 
+execute once before checking if the given condition is meet.
+3. The conditional expression is represented by the following "?" and ":". If the condition is true then the it gets 
+executed, if it is false the expression then evaluates the oher condition following the ":".

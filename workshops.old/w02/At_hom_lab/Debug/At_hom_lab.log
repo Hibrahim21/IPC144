@@ -1,0 +1,6 @@
+﻿  cashRegister_home.c
+c:\users\family\desktop\ipc144\w02\home2\at_hom_lab\at_hom_lab\cashregister_home.c(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\family\desktop\ipc144\w02\home2\at_hom_lab\at_hom_lab\cashregister_home.c(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\family\desktop\ipc144\w02\home2\at_hom_lab\at_hom_lab\cashregister_home.c(53): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\family\desktop\ipc144\w02\home2\at_hom_lab\at_hom_lab\cashregister_home.c(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  At_hom_lab.vcxproj -> C:\Users\Family\Desktop\IPC144\W02\home2\At_hom_lab\Debug\At_hom_lab.exe
